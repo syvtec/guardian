@@ -3,20 +3,26 @@ owner: upptime # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Deep Website
+    url: https://deepofficegroup.com
+  - name: Deep Invoices
+    url: https://services.deepofficehub.com
+  - name: PrimeCC
+    url: https://deepofficehub.com
+  - name: Overflow CFM
+    url: https://cfm.deepofficehub.com
+  - name: Assets Mgt
+    url: https://assets.deepofficehub.com
+  - name: Velocity
+    url: https://velocity.deepofficehub.com
+  - name: Inheritance
+    url: https://inheritance-intl.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  #cname: demo.upptime.js.org
+  baseUrl: /guardian
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."

@@ -6,6 +6,8 @@ sites:
     url: https://deepofficegroup.com
   - name: Deep Invoices
     url: https://services.deepofficehub.com
+  - name: Deep Pro
+    url: https://deepofficepro.com
   - name: PrimeCC
     url: https://deepofficehub.com
   - name: Overflow CFM
@@ -15,7 +17,7 @@ sites:
   - name: Velocity
     url: https://velocity.deepofficehub.com
   - name: Inheritance
-    url: https://inheritance-intl.com
+    url: https://inheritanceintl.com
 status-website:
   baseUrl: /guardian
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg

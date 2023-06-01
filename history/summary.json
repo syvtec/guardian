@@ -58,9 +58,9 @@
     "url": "https://deepofficehub.com",
     "icon": "https://icons.duckduckgo.com/ip3/deepofficehub.com.ico",
     "slug": "prime-cc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +69,9 @@
     "timeWeek": 2736,
     "timeMonth": 2736,
     "timeYear": 2736,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-01": 0
+    }
   },
   {
     "name": "Overflow CFM",
@@ -131,11 +133,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/inheritanceintl.com.ico",
     "slug": "inheritance",
     "status": "up",
-    "uptime": "99.27%",
+    "uptime": "99.36%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.27%",
-    "uptimeMonth": "99.27%",
-    "uptimeYear": "99.27%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "99.36%",
+    "uptimeYear": "99.36%",
     "time": 686,
     "timeDay": 680,
     "timeWeek": 686,

@@ -132,18 +132,19 @@
     "url": "https://inheritanceintl.com",
     "icon": "https://icons.duckduckgo.com/ip3/inheritanceintl.com.ico",
     "slug": "inheritance",
-    "status": "up",
-    "uptime": "99.74%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.75%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.74%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.75%",
     "time": 705,
     "timeDay": 711,
     "timeWeek": 716,
     "timeMonth": 705,
     "timeYear": 705,
     "dailyMinutesDown": {
+      "2023-06-06": 0,
       "2023-05-29": 29
     }
   }
